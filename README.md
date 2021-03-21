@@ -1,2 +1,2 @@
-# aula_javascript
+# jogo_da_cobrinha
  
